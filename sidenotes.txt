@@ -1,0 +1,25 @@
+[https://www.codeavail.com/blog/difference-between-procedural-and-object-oriented-programming/]
+
+Key Difference Between Procedural and Object Oriented Programming
+Now that we’ve introduced both paradigms, let’s compare them more directly:
+
+Organization: Procedural programming uses functions to organize code, while OOP uses objects and classes.
+Data Handling: Procedural programming often relies on global data, whereas OOP encapsulates data within objects.
+Reusability: OOP encourages reusability through inheritance and polymorphism, making it easier to extend and maintain code.
+Complexity: OOP tends to be more suitable for complex systems where data and behavior need to be tightly connected.
+Real-World Analogy: Procedural programming is like following a recipe, while OOP is like building with LEGO bricks.
+
+
+[https://www.codeavail.com/blog/data-science-project-ideas/]
+
+
+[https://www.codeavail.com/blog/structured-programming-in-software-engineering/]
+
+https://www.codeavail.com/blog/what-are-some-the-benefits-of-the-agile-development-methodology/
+
+
+[https://www.codeavail.com/blog/computer-science-topics/]
+
+[https://www.codeavail.com/blog/what-are-the-steps-of-the-development-process-for-a-software-project/]
+
+[https://www.codeavail.com/blog/frontend-project-ideas-for-beginners/]

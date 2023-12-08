@@ -1,0 +1,13 @@
+https://www.codeavail.com/blog/rust-project-ideas/
+9. Social Media Dashboard
+! 11. Image Processing Tool
+! 9. Cloud Infrastructure
+11. Advanced Networking Protocols
+
+
+Stock Market Sentiment Analysis
+News Topic Modeling
+! Predictive Maintenance for Machinery
+
+[https://www.codeavail.com/blog/major-project-ideas-for-cse-final-year/]
+Travel Planner App
